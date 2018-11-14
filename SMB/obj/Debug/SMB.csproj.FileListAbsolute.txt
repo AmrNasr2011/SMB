@@ -1,0 +1,96 @@
+E:\SMB\SEB\obj\Debug\SMB.csprojResolveAssemblyReference.cache
+E:\SMB\SEB\obj\Debug\SMB.csproj.ResolveComReference.cache
+E:\SMB\SEB\obj\Debug\SMB.AccessoriesOfCompactNSX_NS80H_GV2.resources
+E:\SMB\SEB\obj\Debug\SMB.CapacitorBanks.resources
+E:\SMB\SEB\obj\Debug\SMB.DB_Location.resources
+E:\SMB\SEB\obj\Debug\SMB.Help.resources
+E:\SMB\SEB\obj\Debug\SMB.MAIN_CAP_Bank.resources
+E:\SMB\SEB\obj\Debug\SMB.MAIN_DOL_SD_REV.resources
+E:\SMB\SEB\obj\Debug\SMB.Commnet.resources
+E:\SMB\SEB\obj\Debug\SMB.Compact_NS.resources
+E:\SMB\SEB\obj\Debug\SMB.Compact_NSX.resources
+E:\SMB\SEB\obj\Debug\SMB.CapacitorBanks_sheet.resources
+E:\SMB\SEB\obj\Debug\SMB.DOL.resources
+E:\SMB\SEB\obj\Debug\SMB.ControlAuxiliaries.resources
+E:\SMB\SEB\obj\Debug\SMB.Spaces.resources
+E:\SMB\SEB\obj\Debug\SMB.Manu.resources
+E:\SMB\SEB\obj\Debug\SMB.Load.resources
+E:\SMB\SEB\obj\Debug\SMB.MasterpactNW.resources
+E:\SMB\SEB\obj\Debug\SMB.MiniatureCircuit.resources
+E:\SMB\SEB\obj\Debug\SMB.MotorStarters.resources
+E:\SMB\SEB\obj\Debug\SMB.Properties.Resources.resources
+E:\SMB\SEB\obj\Debug\SMB.ProtectionRelaysMetering.resources
+E:\SMB\SEB\obj\Debug\SMB.Save.resources
+E:\SMB\SEB\obj\Debug\SMB.SoftStarters.resources
+E:\SMB\SEB\obj\Debug\SMB.Standardization.resources
+E:\SMB\SEB\obj\Debug\SMB.Standard_Sheets.resources
+E:\SMB\SEB\obj\Debug\SMB.SMB.resources
+E:\SMB\SEB\obj\Debug\SMB.VigilohmCables.resources
+E:\SMB\SEB\obj\Debug\SMB.V_SpeedDrives.resources
+E:\SMB\SEB\obj\Debug\SMB.csproj.GenerateResource.Cache
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.csprojResolveAssemblyReference.cache
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.csproj.ResolveComReference.cache
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.AccessoriesOfCompactNSX_NS80H_GV2.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.CapacitorBanks.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.DB_Location.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.Help.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.MAIN_CAP_Bank.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.MAIN_DOL_SD_REV.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.Commnet.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.Compact_NS.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.Compact_NSX.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.CapacitorBanks_sheet.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.DOL.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.ControlAuxiliaries.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.Spaces.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.Manu.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.Load.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.MasterpactNW.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.MiniatureCircuit.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.MotorStarters.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.Properties.Resources.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.ProtectionRelaysMetering.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.Save.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.SoftStarters.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.Standardization.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.Standard_Sheets.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.SMB.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.VigilohmCables.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.V_SpeedDrives.resources
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.csproj.GenerateResource.Cache
+D:\C sharp Codetest\SMB\SMB\SEB\obj\Debug\SMB.Main_General_tab.resources
+D:\C sharp Codetest\SMB\SMB\SMB\bin\Debug\SMB.exe.config
+D:\C sharp Codetest\SMB\SMB\SMB\bin\Debug\SMB.exe
+D:\C sharp Codetest\SMB\SMB\SMB\bin\Debug\SMB.pdb
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.csproj.ResolveComReference.cache
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.AccessoriesOfCompactNSX_NS80H_GV2.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Roofs.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.DB_Location.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Help.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.MAIN_CAP_Bank.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Main_General_tab.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Commnet.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Compact_NS.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Compact_NSX.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.CapacitorBanks_sheet.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.DOL.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Doors.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Spaces.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Load.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.MasterpactNW.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.MiniatureCircuit.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Special_Requests.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Properties.Resources.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.ProtectionRelaysMetering.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Save.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Mountings.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Standardization.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Standard_Sheets.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.SMB.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.VigilohmCables.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.V_SpeedDrives.resources
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.csproj.GenerateResource.Cache
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.exe
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.pdb
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.csprojResolveAssemblyReference.cache
+D:\C sharp Codetest\SMB\SMB\SMB\obj\Debug\SMB.Main_introduction_Tab.resources

@@ -1,0 +1,76 @@
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\bin\Release\The List.exe.config
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\bin\Release\The List.exe
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\bin\Release\The List.pdb
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The List.csprojResolveAssemblyReference.cache
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The List.csproj.ResolveComReference.cache
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.AccessoriesOfCompactNSX_NS80H_GV2.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.CapacitorBanks.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.DB_Location.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.Help.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.SoftStarteerSheet.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.Commnet.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.Compact_NS.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.Compact_NSX.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.CapacitorBanks_sheet.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.DOL.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.ControlAuxiliaries.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.Current_VoltageTransformers.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.Load.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.MasterpactNW.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.MiniatureCircuit.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.MotorStarters.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.Properties.Resources.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.ProtectionRelaysMetering.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.Save.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.SoftStarters.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.Standardization.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.Standard_Sheets.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.The_List.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.VigilohmCables.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.V_SpeedDrives.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The List.csproj.GenerateResource.Cache
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The List.exe
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The List.pdb
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.MAIN_ATV.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.MAIN_CAP_Bank.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.MAIN_DOL_SD_REV.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.MAIN_SoftStarter.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Release\The_List.Manu.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The List.csproj.ResolveComReference.cache
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.AccessoriesOfCompactNSX_NS80H_GV2.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.CapacitorBanks.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.DB_Location.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.Help.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.MAIN_ATV.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.MAIN_CAP_Bank.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.MAIN_DOL_SD_REV.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.MAIN_SoftStarter.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.SoftStarteerSheet.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.Commnet.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.Compact_NS.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.Compact_NSX.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.CapacitorBanks_sheet.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.DOL.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.ControlAuxiliaries.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.Current_VoltageTransformers.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.Manu.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.Load.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.MasterpactNW.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.MiniatureCircuit.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.MotorStarters.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.ProtectionRelaysMetering.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.Save.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.SoftStarters.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.Standardization.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.Standard_Sheets.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.The_List.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.VigilohmCables.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.V_SpeedDrives.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The List.csproj.GenerateResource.Cache
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\bin\Release\The List.exe.config
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\bin\Release\The List.exe
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\bin\Release\The List.pdb
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The_List.Properties.Resources.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The List.exe
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The List.pdb
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Release\The List.csprojResolveAssemblyReference.cache

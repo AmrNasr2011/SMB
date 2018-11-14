@@ -1,0 +1,272 @@
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\bin\Debug\The List.exe.config
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\bin\Debug\The List.exe
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\bin\Debug\The List.pdb
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.Properties.Resources.resources
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The List.csproj.GenerateResource.Cache
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The List.exe
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The List.pdb
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.AccessoriesOfCompactNSX_NS80H_GV2.resources
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The List.csproj.ResolveComReference.cache
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.CapacitorBanks.resources
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.Compact_NS.resources
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.Compact_NSX.resources
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.ControlAuxiliaries.resources
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.Current_VoltageTransformers.resources
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.MasterpactNW.resources
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.MiniatureCircuit.resources
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.MotorStarters.resources
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.ProtectionRelaysMetering.resources
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.SoftStarters.resources
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.V_SpeedDrives.resources
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.VigilohmCables.resources
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The List.csprojResolveAssemblyReference.cache
+c:\users\amr\documents\visual studio 2015\Projects\The List\The List\obj\Debug\The_List.Form1.resources
+D:\C sharp Codetest\The List\The List\bin\Debug\The List.exe.config
+D:\C sharp Codetest\The List\The List\obj\Debug\The List.csproj.ResolveComReference.cache
+D:\C sharp Codetest\The List\The List\obj\Debug\The List.exe
+D:\C sharp Codetest\The List\The List\obj\Debug\The List.pdb
+D:\C sharp Codetest\The List\The List\bin\Debug\The List.exe
+D:\C sharp Codetest\The List\The List\bin\Debug\The List.pdb
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.AccessoriesOfCompactNSX_NS80H_GV2.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.CapacitorBanks.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.Compact_NS.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.Compact_NSX.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.ControlAuxiliaries.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.Current_VoltageTransformers.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.Form1.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.MasterpactNW.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.MiniatureCircuit.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.MotorStarters.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.Properties.Resources.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.ProtectionRelaysMetering.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.SoftStarters.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.VigilohmCables.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.V_SpeedDrives.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The List.csproj.GenerateResource.Cache
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.The_List.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.Configurator.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.Load.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.Save.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.Commnet.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The List.csprojResolveAssemblyReference.cache
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.Standardization.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.CapacitorBanks_sheet.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.Standard_Sheets.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.SoftStarteerSheet.resources
+D:\C sharp Codetest\The List\The List\obj\Debug\The_List.Help.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The List.csprojResolveAssemblyReference.cache
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The List.csproj.ResolveComReference.cache
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.AccessoriesOfCompactNSX_NS80H_GV2.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.CapacitorBanks.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.Help.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.SoftStarteerSheet.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.Commnet.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.Compact_NS.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.Compact_NSX.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.CapacitorBanks_sheet.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.Configurator.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.ControlAuxiliaries.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.Current_VoltageTransformers.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.Form1.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.Load.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.MasterpactNW.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.MiniatureCircuit.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.MotorStarters.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.Properties.Resources.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.ProtectionRelaysMetering.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.Save.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.SoftStarters.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.Standardization.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.Standard_Sheets.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.The_List.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.VigilohmCables.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The_List.V_SpeedDrives.resources
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The List.csproj.GenerateResource.Cache
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The List.csproj.CoreCompileInputs.cache
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The List.exe
+C:\Users\SESA134309\Desktop\New folder\The List\The List\obj\Debug\The List.pdb
+C:\Users\SESA134309\Desktop\New folder\The List\The List\bin\Debug\The List.exe.config
+C:\Users\SESA134309\Desktop\New folder\The List\The List\bin\Debug\The List.exe
+C:\Users\SESA134309\Desktop\New folder\The List\The List\bin\Debug\The List.pdb
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The List.csprojResolveAssemblyReference.cache
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The List.csproj.ResolveComReference.cache
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.AccessoriesOfCompactNSX_NS80H_GV2.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.CapacitorBanks.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.Help.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.SoftStarteerSheet.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.Commnet.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.Compact_NS.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.Compact_NSX.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.CapacitorBanks_sheet.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.Configurator.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.ControlAuxiliaries.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.Current_VoltageTransformers.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.Form1.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.Load.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.MasterpactNW.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.MiniatureCircuit.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.MotorStarters.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.Properties.Resources.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.ProtectionRelaysMetering.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.Save.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.SoftStarters.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.Standardization.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.Standard_Sheets.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.The_List.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.VigilohmCables.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The_List.V_SpeedDrives.resources
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The List.csproj.GenerateResource.Cache
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The List.csproj.CoreCompileInputs.cache
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The List.exe
+C:\Users\SESA134309\Desktop\The list\The List\The List\obj\Debug\The List.pdb
+C:\Users\SESA134309\Desktop\The list\The List\The List\bin\Debug\The List.exe.config
+C:\Users\SESA134309\Desktop\The list\The List\The List\bin\Debug\The List.exe
+C:\Users\SESA134309\Desktop\The list\The List\The List\bin\Debug\The List.pdb
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The List.csprojResolveAssemblyReference.cache
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The List.csproj.ResolveComReference.cache
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.AccessoriesOfCompactNSX_NS80H_GV2.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.CapacitorBanks.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.Help.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.SoftStarteerSheet.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.Commnet.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.Compact_NS.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.Compact_NSX.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.CapacitorBanks_sheet.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.DOL.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.ControlAuxiliaries.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.Current_VoltageTransformers.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.Form1.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.Load.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.MasterpactNW.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.MiniatureCircuit.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.MotorStarters.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.Properties.Resources.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.ProtectionRelaysMetering.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.Save.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.SoftStarters.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.Standardization.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.Standard_Sheets.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.The_List.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.VigilohmCables.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The_List.V_SpeedDrives.resources
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The List.csproj.GenerateResource.Cache
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The List.exe
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\obj\Debug\The List.pdb
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\bin\Debug\The List.exe.config
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\bin\Debug\The List.exe
+D:\C sharp Codetest\The list Mona updated 30-9\The list\The List\The List\bin\Debug\The List.pdb
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\bin\Debug\The List.exe.config
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\bin\Debug\The List.exe
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\bin\Debug\The List.pdb
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The List.csprojResolveAssemblyReference.cache
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The List.csproj.ResolveComReference.cache
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.AccessoriesOfCompactNSX_NS80H_GV2.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.CapacitorBanks.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.Help.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.SoftStarteerSheet.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.Commnet.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.Compact_NS.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.Compact_NSX.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.CapacitorBanks_sheet.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.DOL.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.ControlAuxiliaries.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.Current_VoltageTransformers.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.Load.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.MasterpactNW.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.MiniatureCircuit.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.MotorStarters.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.Properties.Resources.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.ProtectionRelaysMetering.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.Save.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.SoftStarters.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.Standardization.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.Standard_Sheets.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.The_List.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.VigilohmCables.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.V_SpeedDrives.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The List.csproj.GenerateResource.Cache
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The List.exe
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The List.pdb
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.DB_Location.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.Manu.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.MAIN_ATV.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.MAIN_CAP_Bank.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.MAIN_DOL_SD_REV.resources
+D:\C sharp Codetest\The list Mona updated 30-9 - Copy\The list\The List\The List\obj\Debug\The_List.MAIN_SoftStarter.resources
+C:\Users\SESA134309\Desktop\The List\The List\bin\Debug\The List.exe.config
+C:\Users\SESA134309\Desktop\The List\The List\bin\Debug\The List.exe
+C:\Users\SESA134309\Desktop\The List\The List\bin\Debug\The List.pdb
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The List.csprojAssemblyReference.cache
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The List.csproj.ResolveComReference.cache
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.AccessoriesOfCompactNSX_NS80H_GV2.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.CapacitorBanks.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.DB_Location.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.Help.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.MAIN_ATV.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.MAIN_CAP_Bank.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.MAIN_DOL_SD_REV.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.MAIN_SoftStarter.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.SoftStarteerSheet.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.Commnet.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.Compact_NS.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.Compact_NSX.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.CapacitorBanks_sheet.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.DOL.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.ControlAuxiliaries.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.Current_VoltageTransformers.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.Manu.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.Load.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.MasterpactNW.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.MiniatureCircuit.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.MotorStarters.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.Properties.Resources.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.ProtectionRelaysMetering.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.Save.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.SoftStarters.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.Standardization.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.Standard_Sheets.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.The_List.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.VigilohmCables.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The_List.V_SpeedDrives.resources
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The List.csproj.GenerateResource.cache
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The List.csproj.CoreCompileInputs.cache
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The List.exe
+C:\Users\SESA134309\Desktop\The List\The List\obj\Debug\The List.pdb
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\bin\Debug\The List.exe.config
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\bin\Debug\The List.exe
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\bin\Debug\The List.pdb
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The List.csprojResolveAssemblyReference.cache
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The List.csproj.ResolveComReference.cache
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.AccessoriesOfCompactNSX_NS80H_GV2.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.CapacitorBanks.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.DB_Location.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.Help.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.MAIN_ATV.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.MAIN_CAP_Bank.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.MAIN_DOL_SD_REV.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.MAIN_SoftStarter.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.SoftStarteerSheet.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.Commnet.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.Compact_NS.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.Compact_NSX.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.CapacitorBanks_sheet.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.DOL.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.ControlAuxiliaries.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.Current_VoltageTransformers.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.Manu.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.Load.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.MasterpactNW.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.MiniatureCircuit.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.MotorStarters.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.Properties.Resources.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.ProtectionRelaysMetering.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.Save.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.SoftStarters.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.Standardization.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.Standard_Sheets.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.The_List.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.VigilohmCables.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The_List.V_SpeedDrives.resources
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The List.csproj.GenerateResource.Cache
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The List.exe
+D:\C sharp Codetest\The List\4-11-2018\The List\The List\obj\Debug\The List.pdb
